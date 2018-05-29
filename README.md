@@ -26,9 +26,7 @@
 		
 # Example
 	```
-		mkdir /log
-		chmod 777 /log	
-		java -jar target/coding-challenge.jar ./input/log.csv ./input/inactivity_period.txt ./output/sessionization.txt
+		java -jar target/edgar-analytics.jar ./input/log.csv ./input/inactivity_period.txt ./output/sessionization.txt
 		cat ./output/sessionization.txt
 	```
 		
