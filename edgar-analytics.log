@@ -1,0 +1,37 @@
+2018-May-28 21:27:56 PM [main] INFO  1498816800000
+2018-May-28 21:27:56 PM [main] INFO  1498816801000
+2018-May-28 21:27:56 PM [main] INFO  1498780799000
+2018-May-28 21:27:56 PM [main] INFO  1498780800000
+2018-May-28 21:28:37 PM [main] INFO  1498816800000
+2018-May-28 21:28:37 PM [main] INFO  1498816801000
+2018-May-28 21:28:37 PM [main] INFO  1498780799000
+2018-May-28 21:28:37 PM [main] INFO  1498780800000
+2018-May-28 21:28:53 PM [main] INFO  Recived Files ./input/log.csv,./input/inactivity_period.txt,./output/sessionization.txt
+2018-May-28 21:28:53 PM [main] INFO  File Reading setup Sucessfully
+2018-May-28 21:28:53 PM [main] INFO  Inactivity Time 2
+2018-May-28 21:28:53 PM [main] INFO  File Reading setup Sucessfully
+2018-May-28 21:28:53 PM [main] INFO  File Writer setup Sucessfully
+2018-May-28 21:28:53 PM [main] INFO  1498780800000
+2018-May-28 21:28:53 PM [main] INFO  1498780800000
+2018-May-28 21:28:53 PM [main] INFO  1498780800000
+2018-May-28 21:28:53 PM [main] INFO  1498780801000
+2018-May-28 21:28:53 PM [main] INFO  Moving [Row [ip=107.23.85.jfd, date=2017-06-30, time=00:00:00, zone=0.0, cik=1027281.0, accession=0000898430-02-001167, extention=-index.htm, epochTime=1498780800], Row [ip=107.23.85.jfd, date=2017-06-30, time=00:00:00, zone=0.0, cik=1136894.0, accession=0000905148-07-003827, extention=-index.htm, epochTime=1498780800]]
+2018-May-28 21:28:53 PM [main] INFO  1498780801000
+2018-May-28 21:28:53 PM [main] INFO  1498780802000
+2018-May-28 21:28:53 PM [main] INFO  1498780802000
+2018-May-28 21:28:53 PM [main] INFO  1498780803000
+2018-May-28 21:28:53 PM [main] INFO  Moving [Row [ip=107.23.85.jfd, date=2017-06-30, time=00:00:00, zone=0.0, cik=1027281.0, accession=0000898430-02-001167, extention=-index.htm, epochTime=1498780800], Row [ip=107.23.85.jfd, date=2017-06-30, time=00:00:01, zone=0.0, cik=841535.0, accession=0000841535-98-000002, extention=-index.html, epochTime=1498780801], Row [ip=107.23.85.jfd, date=2017-06-30, time=00:00:00, zone=0.0, cik=1136894.0, accession=0000905148-07-003827, extention=-index.htm, epochTime=1498780800]]
+2018-May-28 21:28:53 PM [main] WARN  Time not present in bucket 1498780799 , current max time is 1498780803
+2018-May-28 21:28:53 PM [main] INFO   Result for key 1498780800 is 101.81.133.jja,2017-06-30 00:00:00,2017-06-30 00:00:00,1,1
+2018-May-28 21:28:53 PM [main] INFO  1498780804000
+2018-May-28 21:28:53 PM [main] INFO  Moving [Row [ip=107.178.195.aag, date=2017-06-30, time=00:00:02, zone=0.0, cik=1068124.0, accession=0000350001-15-000854, extention=-xbrl.zip, epochTime=1498780802]]
+2018-May-28 21:28:53 PM [main] WARN  Time not present in bucket 1498780800 , current max time is 1498780804
+2018-May-28 21:28:53 PM [main] INFO   Result for key 1498780801 is 108.91.91.hbc,2017-06-30 00:00:01,2017-06-30 00:00:01,1,1
+2018-May-28 21:28:53 PM [main] INFO  1498780804000
+2018-May-28 21:28:53 PM [main] WARN  Time not present in bucket 1498780800 , current max time is 1498780804
+2018-May-28 21:28:53 PM [main] WARN  Time not present in bucket 1498780801 , current max time is 1498780804
+2018-May-28 21:28:53 PM [main] INFO   Result for key 1498780800 is 107.23.85.jfd,2017-06-30 00:00:00,2017-06-30 00:00:03,4,4
+2018-May-28 21:28:53 PM [main] INFO   Result for key 1498780802 is 106.120.173.jie,2017-06-30 00:00:02,2017-06-30 00:00:02,1,1
+2018-May-28 21:28:53 PM [main] INFO   Result for key 1498780802 is 107.178.195.aag,2017-06-30 00:00:02,2017-06-30 00:00:04,3,2
+2018-May-28 21:28:53 PM [main] INFO   Result for key 1498780804 is 108.91.91.hbc,2017-06-30 00:00:04,2017-06-30 00:00:04,1,1
+2018-May-28 21:28:53 PM [main] INFO  Processed Successfully, output present in ./output/sessionization.txt
